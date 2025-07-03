@@ -1,7 +1,8 @@
 # 🚀 EdgeOne Astro Blog - 基于 Astro 的极简博客系统
 
 这是一个基于 [Astro Paper](https://github.com/satnaing/astro-paper) 魔改适配的博客项目，支持一键部署到 [腾讯云 EdgeOne Pages](https://cloud.tencent.com/product/edgeone/pages)，无须服务器，零配置快速上线你的个人博客 ✨
-
+- [简体中文](README.zh.md)
+- [English](README.md)
 ---
 
 ## 🌐 在线演示
