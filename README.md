@@ -23,7 +23,7 @@
 ## 🚀 一键部署到 EdgeOne Pages
 
 > 推荐使用腾讯 EdgeOne Pages 实现静态部署，仅需几步  
-> [![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=YOUR_REPO_URL)
+> [![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=github.com/ttuuhcsj545/edgeone-astro-blog)
 
 ### ✅ 部署步骤：
 
